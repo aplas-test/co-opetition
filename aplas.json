@@ -9,24 +9,23 @@
       "description": "Enhanced holistic moratorium",
       "categoryId": "administration",
       "applicationSize": "small",
-      "status": "standard",
       "licensing_cost": "239",
       "status_color": "#00FF00",
       "department": "Legal",
       "hostedtype": "OnPremise",
       "deployment_date": "22/1/04",
-      "investment_number": "366",
+      "investment_number": 366,
       "type": "OffShelf",
       "sme_email": "Lauraine.Elsbury@memento.net.au",
       "investment_24m": "1037",
       "sme_name": "Lauraine Elsbury",
       "support_cost": "432",
       "end_of_life": "13/12/18",
-      "months_to_renew_support": "13",
+      "months_to_renew_support": 13,
       "end_of_maintenance": "27/11/17",
       "integrations": [
         {
-          "assetId": "int-328",
+          "id": "int-328",
           "name": "INT-328",
           "shortName": null,
           "version": "0.12",
@@ -34,7 +33,6 @@
           "payload": "Labour Standards Data",
           "targetApplicationId": "social_innovation",
           "categoryId": "cron",
-          "status": "standard",
           "sme_name": "Isacco Tucker",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -47,7 +45,7 @@
           "golive_date": "18/10/15"
         },
         {
-          "assetId": "int-080",
+          "id": "int-080",
           "name": "INT-080",
           "shortName": null,
           "version": "4.63",
@@ -55,7 +53,6 @@
           "payload": "Location (Stores) Master Data",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Guenna Kix",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -68,7 +65,7 @@
           "golive_date": "9/4/05"
         },
         {
-          "assetId": "int-055",
+          "id": "int-055",
           "name": "INT-055",
           "shortName": null,
           "version": "0.9",
@@ -76,7 +73,6 @@
           "payload": "Cost - Landed Cost",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Muhammad Cammack",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -89,7 +85,7 @@
           "golive_date": "22/1/07"
         },
         {
-          "assetId": "int-063",
+          "id": "int-063",
           "name": "INT-063",
           "shortName": null,
           "version": "7.2.8",
@@ -97,7 +93,6 @@
           "payload": "Return - Vendor",
           "targetApplicationId": "wikiality",
           "categoryId": "etl",
-          "status": "standard",
           "sme_name": "Alfy Greader",
           "status_color": "#00FF00",
           "department": "Datawarehouse",
@@ -110,7 +105,7 @@
           "golive_date": "30/1/14"
         },
         {
-          "assetId": "int-144",
+          "id": "int-144",
           "name": "INT-144",
           "shortName": null,
           "version": "1.8",
@@ -118,7 +113,6 @@
           "payload": "Minimum/",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -131,7 +125,7 @@
           "golive_date": "1/1/14"
         },
         {
-          "assetId": "int-154",
+          "id": "int-154",
           "name": "INT-154",
           "shortName": null,
           "version": "9.26",
@@ -139,7 +133,6 @@
           "payload": "Distribution Order Confirmation Transactional Data",
           "targetApplicationId": "social_innovation",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Gabriel Van Hault",
           "status_color": "#00FF00",
           "department": "Integration",
